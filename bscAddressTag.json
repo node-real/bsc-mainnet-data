@@ -1,162 +1,530 @@
 {
-    "0x5532CdB3c0c4278f9848fc4560b495b70bA67455": {
-        "tag": "Builder: blockrazor-1",
-        "hover": ""
-    },
-    "0x49D91b1Ab0CC6A1591c2e5863E602d7159d36149": {
-        "tag": "Builder: blockrazor-2",
-        "hover": ""
-    },
-    "0xBA4233f6e478DB76698b0A5000972Af0196b7bE1": {
-        "tag": "Builder: blockrazor-3",
-        "hover": ""
-    },
-    "0x539E24781f616F0d912B60813aB75B7b80b75C53": {
-        "tag": "Builder: blockrazor-4",
-        "hover": ""
-    },
-    "0x50061047B9c7150f0Dc105f79588D1B07D2be250": {
-        "tag": "Builder: blockrazor-5",
-        "hover": ""
-    },
-    "0x488e37fcB2024A5B2F4342c7dE636f0825dE6448": {
-        "tag": "Builder: blockrazor-6",
-        "hover": ""
-    },
-    "0x0557E8CB169F90F6eF421a54e29d7dd0629Ca597": {
-        "tag": "Builder: blockrazor-7",
-        "hover": ""
-    },
-    "0x487e5Dfe70119C1b320B8219B190a6fa95a5BB48": {
-        "tag": "Builder: puissant",
-        "hover": ""
-    },
-    "0x6Dddf681C908705472D09B1D7036B2241B50e5c7": {
-        "tag": "Builder: txboost-1",
-        "hover": ""
-    },
-    "0x76736159984AE865a9b9Cc0Df61484A49dA68191": {
-        "tag": "Builder: txboost-2",
-        "hover": ""
-    },
-    "0x5054b21D8baea3d602dca8761B235ee10bc0231E": {
-        "tag": "Builder: txboost-3",
-        "hover": ""
-    },
-    "0xD4376FdC9b49d90e6526dAa929f2766a33BFFD52": {
-        "tag": "Builder: bloxroute-1",
-        "hover": ""
-    },
-    "0x2873fc7aD9122933BECB384f5856f0E87918388d": {
-        "tag": "Builder: bloxroute-2",
-        "hover": ""
-    },
-    "0x432101856a330aafdeB049dD5fA03a756B3f1c66": {
-        "tag": "Builder: bloxroute-3",
-        "hover": ""
-    },
-    "0x2B217a4158933AAdE6D6494e3791D454B4D13AE7": {
-        "tag": "Builder: bloxroute-4",
-        "hover": ""
-    },
-    "0x0da52E9673529b6E06F444FbBED2904A37f66415": {
-        "tag": "Builder: bloxroute-5",
-        "hover": ""
-    },
-    "0xE1ec1AeCE7953ecB4539749B9AA2eEF63354860a": {
-        "tag": "Builder: bloxroute-6",
-        "hover": ""
-    },
-    "0x89434FC3a09e583F2cb4e47A8B8fe58De8BE6a15": {
-        "tag": "Builder: bloxroute-7",
-        "hover": ""
-    },
-    "0x345324dC15F1CDcF9022E3B7F349e911fb823b4C": {
-        "tag": "Builder: jetbldr-1",
-        "hover": ""
-    },
-    "0x79102dB16781ddDfF63F301C9Be557Fd1Dd48fA0": {
-        "tag": "Builder: nodereal-1",
-        "hover": ""
-    },
-    "0xd0d56b330a0dea077208b96910ce452fd77e1b6f": {
-        "tag": "Builder: nodereal-2",
-        "hover": ""
-    },
-    "0x4f24ce4cd03a6503de97cf139af2c26347930b99": {
-        "tag": "Builder: nodereal-3",
-        "hover": ""
-    },
-    "0x10353562E662E333C0c2007400284e0e21cF74fF": {
-        "tag": "Builder: bloxroute-8",
-        "hover": ""
-    },
-    "0xa6d6086222812eFD5292fF284b0F7ff2a2B86Af4": {
-        "tag": "Builder: darwinbuilder-1",
-        "hover": ""
-    },
-    "0x3265A3243ee84e667a73073504cA4CdeD1413D82": {
-        "tag": "Builder: darwinbuilder-2",
-        "hover": ""
-    },
-    "0xdf11CD23992Fd48Cf2d245aC144010673275f285": {
-        "tag": "Builder: darwinbuilder-3",
-        "hover": ""
-    },
-    "0x9a3234b450518fadA098388B88e00deCAd96ad38": {
-        "tag": "Builder: inblock-1",
-        "hover": ""
-    },
-    "0xb49f86586a840AB9920D2f340a85586E50FD30a2": {
-        "tag": "Builder: inblock-2",
-        "hover": ""
-    },
-    "0x0F6D8b72F3687de6f2824903a83B3ba13c0e88A0": {
-        "tag": "Builder: inblock-3",
-        "hover": ""
-    },
-    "0x36CB523286D57680efBbfb417C63653115bCEBB5": {
-        "tag": "Builder: jetbldr-2",
-        "hover": ""
-    },
-    "0x3aD6121407f6EDb65C8B2a518515D45863C206A8": {
-        "tag": "Builder: jetbldr-3",
-        "hover": ""
-    },
-    "0x812720cb4639550D7BDb1d8F2be463F4a9663762": {
-        "tag": "Builder: xzbuilder",
-        "hover": ""
-    },
-    "0x48a5Ed9abC1a8FBe86ceC4900483f43a7f2dBB48": {
-        "tag": "Builder: 48club-1",
-        "hover": ""
-    },
-    "0x48FeE1BB3823D72fdF80671ebaD5646Ae397BB48": {
-        "tag": "Builder: 48club-2",
-        "hover": ""
-    },
-    "0x48B4bBEbF0655557A461e91B8905b85864B8BB48": {
-        "tag": "Builder: 48club-3",
-        "hover": ""
-    },
-    "0x4827b423D03a349b7519Dda537e9A28d31ecBB48": {
-        "tag": "Builder: 48club-4",
-        "hover": ""
-    },
-    "0x48B2665E5E9a343409199D70F7495c8aB660BB48": {
-        "tag": "Builder: 48club-5",
-        "hover": ""
-    },
-    "0x3FC0c936c00908c07723ffbf2d536D6E0f62C3A4": {
-        "tag": "Builder: blockbus-1",
-        "hover": ""
-    },
-    "0x17e9F0D7E45A500f0148B29C6C98EfD19d95F138": {
-        "tag": "Builder: blockbus-2",
-        "hover": ""
-    },
-    "0x1319Be8b8Ec4AA81f501924BdCF365fBcAa8d753": {
-        "tag": "Builder: blockbus-3",
-        "hover": ""
-    }
+  "0x5532CdB3c0c4278f9848fc4560b495b70bA67455": {
+    "tag": "Builder: blockrazor-1",
+    "hover": ""
+  },
+  "0x49D91b1Ab0CC6A1591c2e5863E602d7159d36149": {
+    "tag": "Builder: blockrazor-2",
+    "hover": ""
+  },
+  "0xBA4233f6e478DB76698b0A5000972Af0196b7bE1": {
+    "tag": "Builder: blockrazor-3",
+    "hover": ""
+  },
+  "0x539E24781f616F0d912B60813aB75B7b80b75C53": {
+    "tag": "Builder: blockrazor-4",
+    "hover": ""
+  },
+  "0x50061047B9c7150f0Dc105f79588D1B07D2be250": {
+    "tag": "Builder: blockrazor-5",
+    "hover": ""
+  },
+  "0x488e37fcB2024A5B2F4342c7dE636f0825dE6448": {
+    "tag": "Builder: blockrazor-6",
+    "hover": ""
+  },
+  "0x0557E8CB169F90F6eF421a54e29d7dd0629Ca597": {
+    "tag": "Builder: blockrazor-7",
+    "hover": ""
+  },
+  "0x487e5Dfe70119C1b320B8219B190a6fa95a5BB48": {
+    "tag": "Builder: puissant",
+    "hover": ""
+  },
+  "0x6Dddf681C908705472D09B1D7036B2241B50e5c7": {
+    "tag": "Builder: txboost-1",
+    "hover": ""
+  },
+  "0x76736159984AE865a9b9Cc0Df61484A49dA68191": {
+    "tag": "Builder: txboost-2",
+    "hover": ""
+  },
+  "0x5054b21D8baea3d602dca8761B235ee10bc0231E": {
+    "tag": "Builder: txboost-3",
+    "hover": ""
+  },
+  "0xD4376FdC9b49d90e6526dAa929f2766a33BFFD52": {
+    "tag": "Builder: bloxroute-1",
+    "hover": ""
+  },
+  "0x2873fc7aD9122933BECB384f5856f0E87918388d": {
+    "tag": "Builder: bloxroute-2",
+    "hover": ""
+  },
+  "0x432101856a330aafdeB049dD5fA03a756B3f1c66": {
+    "tag": "Builder: bloxroute-3",
+    "hover": ""
+  },
+  "0x2B217a4158933AAdE6D6494e3791D454B4D13AE7": {
+    "tag": "Builder: bloxroute-4",
+    "hover": ""
+  },
+  "0x0da52E9673529b6E06F444FbBED2904A37f66415": {
+    "tag": "Builder: bloxroute-5",
+    "hover": ""
+  },
+  "0xE1ec1AeCE7953ecB4539749B9AA2eEF63354860a": {
+    "tag": "Builder: bloxroute-6",
+    "hover": ""
+  },
+  "0x89434FC3a09e583F2cb4e47A8B8fe58De8BE6a15": {
+    "tag": "Builder: bloxroute-7",
+    "hover": ""
+  },
+  "0x345324dC15F1CDcF9022E3B7F349e911fb823b4C": {
+    "tag": "Builder: jetbldr-1",
+    "hover": ""
+  },
+  "0x79102dB16781ddDfF63F301C9Be557Fd1Dd48fA0": {
+    "tag": "Builder: nodereal-1",
+    "hover": ""
+  },
+  "0xd0d56b330a0dea077208b96910ce452fd77e1b6f": {
+    "tag": "Builder: nodereal-2",
+    "hover": ""
+  },
+  "0x4f24ce4cd03a6503de97cf139af2c26347930b99": {
+    "tag": "Builder: nodereal-3",
+    "hover": ""
+  },
+  "0x10353562E662E333C0c2007400284e0e21cF74fF": {
+    "tag": "Builder: bloxroute-8",
+    "hover": ""
+  },
+  "0xa6d6086222812eFD5292fF284b0F7ff2a2B86Af4": {
+    "tag": "Builder: darwinbuilder-1",
+    "hover": ""
+  },
+  "0x3265A3243ee84e667a73073504cA4CdeD1413D82": {
+    "tag": "Builder: darwinbuilder-2",
+    "hover": ""
+  },
+  "0xdf11CD23992Fd48Cf2d245aC144010673275f285": {
+    "tag": "Builder: darwinbuilder-3",
+    "hover": ""
+  },
+  "0x9a3234b450518fadA098388B88e00deCAd96ad38": {
+    "tag": "Builder: inblock-1",
+    "hover": ""
+  },
+  "0xb49f86586a840AB9920D2f340a85586E50FD30a2": {
+    "tag": "Builder: inblock-2",
+    "hover": ""
+  },
+  "0x0F6D8b72F3687de6f2824903a83B3ba13c0e88A0": {
+    "tag": "Builder: inblock-3",
+    "hover": ""
+  },
+  "0x36CB523286D57680efBbfb417C63653115bCEBB5": {
+    "tag": "Builder: jetbldr-2",
+    "hover": ""
+  },
+  "0x3aD6121407f6EDb65C8B2a518515D45863C206A8": {
+    "tag": "Builder: jetbldr-3",
+    "hover": ""
+  },
+  "0x812720cb4639550D7BDb1d8F2be463F4a9663762": {
+    "tag": "Builder: xzbuilder",
+    "hover": ""
+  },
+  "0x48a5Ed9abC1a8FBe86ceC4900483f43a7f2dBB48": {
+    "tag": "Builder: 48club-1",
+    "hover": ""
+  },
+  "0x48FeE1BB3823D72fdF80671ebaD5646Ae397BB48": {
+    "tag": "Builder: 48club-2",
+    "hover": ""
+  },
+  "0x48B4bBEbF0655557A461e91B8905b85864B8BB48": {
+    "tag": "Builder: 48club-3",
+    "hover": ""
+  },
+  "0x4827b423D03a349b7519Dda537e9A28d31ecBB48": {
+    "tag": "Builder: 48club-4",
+    "hover": ""
+  },
+  "0x48B2665E5E9a343409199D70F7495c8aB660BB48": {
+    "tag": "Builder: 48club-5",
+    "hover": ""
+  },
+  "0x3FC0c936c00908c07723ffbf2d536D6E0f62C3A4": {
+    "tag": "Builder: blockbus-1",
+    "hover": ""
+  },
+  "0x17e9F0D7E45A500f0148B29C6C98EfD19d95F138": {
+    "tag": "Builder: blockbus-2",
+    "hover": ""
+  },
+  "0x1319Be8b8Ec4AA81f501924BdCF365fBcAa8d753": {
+    "tag": "Builder: blockbus-3",
+    "hover": ""
+  },
+  "0x37e9627a91dd13e453246856d58797ad6583d762": {
+    "tag": "Validator: LegendII",
+    "hover": ""
+  },
+  "0x7b501c7944185130dd4ad73293e8aa84effdcee7": {
+    "tag": "Validator: MathWallet",
+    "hover": ""
+  },
+  "0x7e1fdf03eb3ac35bf0256694d7fbe6b6d7b3e0c8": {
+    "tag": "Validator: LegendIII",
+    "hover": ""
+  },
+  "0xb4647b856cb9c3856d559c885bed8b43e0846a47": {
+    "tag": "Validator: CertiK",
+    "hover": ""
+  },
+  "0xd3b0d838ccceae7ebf1781d11d1bb741db7fe1a7": {
+    "tag": "Validator: BNBEve",
+    "hover": ""
+  },
+  "0x58567f7a51a58708c8b40ec592a38ba64c0697de": {
+    "tag": "Validator: Legend",
+    "hover": ""
+  },
+  "0x5009317fd4f6f8feea9dae41e5f0a4737bb7a7d5": {
+    "tag": "Validator: NodeReal",
+    "hover": ""
+  },
+  "0xf8de5e61322302b2c6e0a525cc842f10332811bf": {
+    "tag": "Validator: namelix",
+    "hover": ""
+  },
+  "0x1cfdbd2dff70c6e2e30df5012726f87731f38164": {
+    "tag": "Validator: Tranchess",
+    "hover": ""
+  },
+  "0xca503a7ed99eca485da2e875aedf7758472c378c": {
+    "tag": "Validator: InfStones",
+    "hover": ""
+  },
+  "0x502aecfe253e6aa0e8d2a06e12438ffed0fe16a0": {
+    "tag": "Validator: BscScan",
+    "hover": ""
+  },
+  "0x460a252b4feefa821d3351731220627d7b7d1f3d": {
+    "tag": "Validator: defibit",
+    "hover": ""
+  },
+  "0x9f1b7fae54be07f4fee34eb1aacb39a1f7b6fc92": {
+    "tag": "Validator: TWStaking",
+    "hover": ""
+  },
+  "0xf8b99643fafc79d9404de68e48c4d49a3936f787": {
+    "tag": "Validator: Avengers",
+    "hover": ""
+  },
+  "0x8a239732871adc8829ea2f47e94087c5fbad47b6": {
+    "tag": "Validator: The48Club",
+    "hover": ""
+  },
+  "0xbdcc079bbb23c1d9a6f36aa31309676c258abac7": {
+    "tag": "Validator: fuji",
+    "hover": ""
+  },
+  "0x9bb56c2b4dbe5a06d79911c9899b6f817696acfc": {
+    "tag": "Validator: Feynman",
+    "hover": ""
+  },
+  "0x75b851a27d7101438f45fce31816501193239a83": {
+    "tag": "Validator: Figment",
+    "hover": ""
+  },
+  "0x38944092685a336cb6b9ea58836436709a2adc89": {
+    "tag": "Validator: Shannon",
+    "hover": ""
+  },
+  "0xccb42a9b8d6c46468900527bc741938e78ab4577": {
+    "tag": "Validator: Turing",
+    "hover": ""
+  },
+  "0xfc1004c0f296ec3df4f6762e9eabfcf20eb304a2": {
+    "tag": "Validator: Aoraki",
+    "hover": ""
+  },
+  "0xa0884bb00e5f23fe2427f0e5ec9e51f812848563": {
+    "tag": "Validator: coda",
+    "hover": ""
+  },
+  "0xa2d969e82524001cb6a2357dbf5922b04ad2fcd8": {
+    "tag": "Validator: pexmons",
+    "hover": ""
+  },
+  "0xe7776de78740f28a96412ee5cbbb8f90896b11a5": {
+    "tag": "Validator: Ankr",
+    "hover": ""
+  },
+  "0x5cf810ab8c718ac065b45f892a5badab2b2946b9": {
+    "tag": "Validator: zen",
+    "hover": ""
+  },
+  "0x4d15d9bcd0c2f33e7510c0de8b42697ca558234a": {
+    "tag": "Validator: LegendVII",
+    "hover": ""
+  },
+  "0xd1f72d433f362922f6565fc77c25e095b29141c8": {
+    "tag": "Validator: LegendVI",
+    "hover": ""
+  },
+  "0xb997bf1e3b96919fba592c1f61ce507e165ec030": {
+    "tag": "Validator: Seoraksan",
+    "hover": ""
+  },
+  "0xf9814d93b4d904aaa855cbd4266d6eb0ec1aa478": {
+    "tag": "Validator: Legend8",
+    "hover": ""
+  },
+  "0x025a4e09ea947b8d695f53ddfdd48ddb8f9b06b7": {
+    "tag": "Validator: ciscox",
+    "hover": ""
+  },
+  "0x1579ca96ebd49a0b173f86c372436ab1ad393380": {
+    "tag": "Validator: LegendV",
+    "hover": ""
+  },
+  "0xa015d9e9206859c13201bb3d6b324d6634276534": {
+    "tag": "Validator: Star",
+    "hover": ""
+  },
+  "0x73a26778ef9509a6e94b55310ee7233795a9eb25": {
+    "tag": "Validator: coinlix",
+    "hover": ""
+  },
+  "0xe9436f6f30b4b01b57f2780b2898f3820ebd7b98": {
+    "tag": "Validator: LegendIV",
+    "hover": ""
+  },
+  "0x5adde0151bfab27f329e5112c1aedeed7f0d3692": {
+    "tag": "Validator: Veri",
+    "hover": ""
+  },
+  "0x286c1b674d48cff67b4096b6c1dc22e769581e91": {
+    "tag": "Validator: sigm8",
+    "hover": ""
+  },
+  "0x9f7110ba7edfda83fc71bea6ba3c0591117b440d": {
+    "tag": "Validator: LegendIX",
+    "hover": ""
+  },
+  "0xc2d534f079444e6e7ff9dabb3fd8a26c607932c8": {
+    "tag": "Validator: axion",
+    "hover": ""
+  },
+  "0x978f05ced39a4eafa6e8fd045fe2dd6da836c7df": {
+    "tag": "Validator: NovaX",
+    "hover": ""
+  },
+  "0xd849d1df66bff1c2739b4399425755c2e0fabbab": {
+    "tag": "Validator: Nexa",
+    "hover": ""
+  },
+  "0xfd85346c8c991bac16b9c9157e6bdfdace1cd7d7": {
+    "tag": "Validator: glorin",
+    "hover": ""
+  },
+  "0x2a7cdd959bfe8d9487b2a43b33565295a698f7e2": {
+    "tag": "Validator: Sigm8",
+    "hover": ""
+  },
+  "0x35e7a025f4da968de7e4d7e4004197917f4070f1": {
+    "tag": "Validator: Piececoin",
+    "hover": ""
+  },
+  "0x9f8ccdafcc39f3c7d6ebf637c9151673cbc36b88": {
+    "tag": "Validator: Ankr",
+    "hover": ""
+  },
+  "0x61dd481a114a2e761c554b641742c973867899d3": {
+    "tag": "Validator: Synclub",
+    "hover": ""
+  },
+  "0xb8f7166496996a7da21cf1f1b04d9b3e26a3d077": {
+    "tag": "Validator: Coinlix",
+    "hover": ""
+  },
+  "0xee226379db83cffc681495730c11fdde79ba4c0c": {
+    "tag": "Validator: InfStones",
+    "hover": ""
+  },
+  "0xd6ab358ad430f65eb4aa5a1598ff2c34489dcfde": {
+    "tag": "Validator: Saturn",
+    "hover": ""
+  },
+  "0x6bbad7cf34b5fa511d8e963dbba288b1960e75d6": {
+    "tag": "Validator: Ararat",
+    "hover": ""
+  },
+  "0xef0274e31810c9df02f98fafde0f841f4e66a1cd": {
+    "tag": "Validator: Tranchess",
+    "hover": ""
+  },
+  "0xa100fcd08ce722dc68ddc3b54237070cb186f118": {
+    "tag": "Validator: tiollo",
+    "hover": ""
+  },
+  "0xc2be4ec20253b8642161bc3f444f53679c1f3d47": {
+    "tag": "Validator: Tiollo",
+    "hover": ""
+  },
+  "0xa6f79b60359f141df90a0c745125b131caaffd12": {
+    "tag": "Validator: Avengers",
+    "hover": ""
+  },
+  "0x8b6c8fd93d6f4cea42bbb345dbc6f0dfdb5bec73": {
+    "tag": "Validator: Legend III",
+    "hover": ""
+  },
+  "0xd6caa02bbebaebb5d7e581e4b66559e635f805ff": {
+    "tag": "Validator: Leapbnb",
+    "hover": ""
+  },
+  "0x4396e28197653d0c244d95f8c1e57da902a72b4e": {
+    "tag": "Validator: Alps",
+    "hover": ""
+  },
+  "0xac0e15a038eedfc68ba3c35c73fed5be4a07afb5": {
+    "tag": "Validator: Bison Trails",
+    "hover": ""
+  },
+  "0x18c44f4fbede9826c7f257d500a65a3d5a8edebc": {
+    "tag": "Validator: nozti",
+    "hover": ""
+  },
+  "0x685b1ded8013785d6623cc18d214320b6bb64759": {
+    "tag": "Validator: Namelix",
+    "hover": ""
+  },
+  "0x22b81f8e175ffde54d797fe11eb03f9e3bf75f1d": {
+    "tag": "Validator: Aconcagua",
+    "hover": ""
+  },
+  "0x1252feb82c34eed907b294be442e4dd413e58138": {
+    "tag": "Validator: Burnaby",
+    "hover": ""
+  },
+  "0x6488aa4d1955ee33403f8ccb1d4de5fb97c7ade2": {
+    "tag": "Validator: Seoraksan",
+    "hover": ""
+  },
+  "0x0bac492386862ad3df4b666bc096b0505bb694da": {
+    "tag": "Validator: Claude Shannon",
+    "hover": ""
+  },
+  "0x29a97c6effb8a411dabc6adeefaa84f5067c8bbe": {
+    "tag": "Validator: CREAM",
+    "hover": ""
+  },
+  "0x69c77a677c40c7fbea129d4b171a39b7a8ddabfa": {
+    "tag": "Blockorus",
+    "hover": ""
+  },
+  "0x9ef9f4360c606c7ab4db26b016007d3ad0ab86a0": {
+    "tag": "Validator: Nozti",
+    "hover": ""
+  },
+  "0x82012708dafc9e1b880fd083b32182b869be8e09": {
+    "tag": "Validator: Kita",
+    "hover": ""
+  },
+  "0x70f657164e5b75689b64b7fd1fa275f334f28e18": {
+    "tag": "Validator: BscScan",
+    "hover": ""
+  },
+  "0xee01c3b1283aa067c58eab4709f85e99d46de5fe": {
+    "tag": "Validator: Glorin",
+    "hover": ""
+  },
+  "0xada8c942f31098482748fcf2b9d3dc1d8de7b0e4": {
+    "tag": "Validator: James Clerk Maxwell",
+    "hover": ""
+  },
+  "0xbe807dddb074639cd9fa61b47676c064fc50d62c": {
+    "tag": "Validator: Certik",
+    "hover": ""
+  },
+  "0x68bf0b8b6fb4e317a0f9d6f03eaf8ce6675bc60d": {
+    "tag": "Validator: Stakepulse",
+    "hover": ""
+  },
+  "0x295e26495cef6f69dfa69911d9d8e4f3bbadb89b": {
+    "tag": "Validator: Legend",
+    "hover": ""
+  },
+  "0xce2fd7544e0b2cc94692d4a704debef7bcb61328": {
+    "tag": "Validator: Pexmons",
+    "hover": ""
+  },
+  "0x72b61c6014342d914470ec7ac2975be345796c2b": {
+    "tag": "Validator: 48 Club",
+    "hover": ""
+  },
+  "0xe2d3a739effcd3a99387d015e260eefac72ebea1": {
+    "tag": "Validator: MathWallet",
+    "hover": ""
+  },
+  "0x482ba86399ab6dcbe54071f8d22258688b4509b1": {
+    "tag": "Validator: HashKey",
+    "hover": ""
+  },
+  "0x4430b3230294d12c6ab2aac5c2cd68e80b16b581": {
+    "tag": "Validator: Ciscox",
+    "hover": ""
+  },
+  "0x9bb832254baf4e8b4cc26bd2b52b31389b56e98b": {
+    "tag": "Validator: Stake2me",
+    "hover": ""
+  },
+  "0xaacf6a8119f7e11623b5a43da638e91f669a130f": {
+    "tag": "Validator: Neptune",
+    "hover": ""
+  },
+  "0x78f3adfc719c99674c072166708589033e2d9afe": {
+    "tag": "Validator: Nariox",
+    "hover": ""
+  },
+  "0x7ae2f5b9e386cd1b50a4550696d957cb4900f03a": {
+    "tag": "Validator: Fuji",
+    "hover": ""
+  },
+  "0x3f349bbafec1551819b8be1efea2fc46ca749aa1": {
+    "tag": "Validator: Legend II",
+    "hover": ""
+  },
+  "0x0f28847cfdbf7508b13ebb9ceb94b2f1b32e9503": {
+    "tag": "Validator: raptas",
+    "hover": ""
+  },
+  "0xea0a6e3c511bbd10f4519ece37dc24887e11b55d": {
+    "tag": "Validator: Defibit",
+    "hover": ""
+  },
+  "0xb218c5d6af1f979ac42bc68d98a5a0d796c6ab01": {
+    "tag": "Validator: Alan Turing",
+    "hover": ""
+  },
+  "0x2f7be8361c80a4c1e7e9aaf001d0877f1cfde218": {
+    "tag": "Validator: Raptas",
+    "hover": ""
+  },
+  "0x8c4d90829ce8f72d0163c1d5cf348a862d550630": {
+    "tag": "Validator: Everest",
+    "hover": ""
+  },
+  "0x2465176c461afb316ebc773c61faee85a6515daa": {
+    "tag": "Validator: TW Staking",
+    "hover": ""
+  },
+  "0x2d4c407bbe49438ed859fe965b140dcf1aab71a9": {
+    "tag": "Validator: NodeReal",
+    "hover": ""
+  },
+  "0xa34efe6222e33adb84307f41b218d1823afb6f6d": {
+    "tag": "Validator: Enrico Fermi",
+    "hover": ""
+  },
+  "0xe9ae3261a475a27bb1028f140bc2a7c843318afd": {
+    "tag": "Validator: HashQuark",
+    "hover": ""
+  }
 }
