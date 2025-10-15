@@ -1,0 +1,2587 @@
+{
+  "0x5532CdB3c0c4278f9848fc4560b495b70bA67455": {
+    "name": "Builder: blockrazor-1",
+    "tags": [
+      {
+        "name": "Builder: blockrazor-1",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x49D91b1Ab0CC6A1591c2e5863E602d7159d36149": {
+    "name": "Builder: blockrazor-2",
+    "tags": [
+      {
+        "name": "Builder: blockrazor-2",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xBA4233f6e478DB76698b0A5000972Af0196b7bE1": {
+    "name": "Builder: blockrazor-3",
+    "tags": [
+      {
+        "name": "Builder: blockrazor-3",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x539E24781f616F0d912B60813aB75B7b80b75C53": {
+    "name": "Builder: blockrazor-4",
+    "tags": [
+      {
+        "name": "Builder: blockrazor-4",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x50061047B9c7150f0Dc105f79588D1B07D2be250": {
+    "name": "Builder: blockrazor-5",
+    "tags": [
+      {
+        "name": "Builder: blockrazor-5",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x488e37fcB2024A5B2F4342c7dE636f0825dE6448": {
+    "name": "Builder: blockrazor-6",
+    "tags": [
+      {
+        "name": "Builder: blockrazor-6",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x0557E8CB169F90F6eF421a54e29d7dd0629Ca597": {
+    "name": "Builder: blockrazor-7",
+    "tags": [
+      {
+        "name": "Builder: blockrazor-7",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x487e5Dfe70119C1b320B8219B190a6fa95a5BB48": {
+    "name": "Builder: puissant",
+    "tags": [
+      {
+        "name": "Builder: puissant",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x6Dddf681C908705472D09B1D7036B2241B50e5c7": {
+    "name": "Builder: txboost-1",
+    "tags": [
+      {
+        "name": "Builder: txboost-1",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x76736159984AE865a9b9Cc0Df61484A49dA68191": {
+    "name": "Builder: txboost-2",
+    "tags": [
+      {
+        "name": "Builder: txboost-2",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x5054b21D8baea3d602dca8761B235ee10bc0231E": {
+    "name": "Builder: txboost-3",
+    "tags": [
+      {
+        "name": "Builder: txboost-3",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xD4376FdC9b49d90e6526dAa929f2766a33BFFD52": {
+    "name": "Builder: bloxroute-1",
+    "tags": [
+      {
+        "name": "Builder: bloxroute-1",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2873fc7aD9122933BECB384f5856f0E87918388d": {
+    "name": "Builder: bloxroute-2",
+    "tags": [
+      {
+        "name": "Builder: bloxroute-2",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x432101856a330aafdeB049dD5fA03a756B3f1c66": {
+    "name": "Builder: bloxroute-3",
+    "tags": [
+      {
+        "name": "Builder: bloxroute-3",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2B217a4158933AAdE6D6494e3791D454B4D13AE7": {
+    "name": "Builder: bloxroute-4",
+    "tags": [
+      {
+        "name": "Builder: bloxroute-4",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x0da52E9673529b6E06F444FbBED2904A37f66415": {
+    "name": "Builder: bloxroute-5",
+    "tags": [
+      {
+        "name": "Builder: bloxroute-5",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xE1ec1AeCE7953ecB4539749B9AA2eEF63354860a": {
+    "name": "Builder: bloxroute-6",
+    "tags": [
+      {
+        "name": "Builder: bloxroute-6",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x89434FC3a09e583F2cb4e47A8B8fe58De8BE6a15": {
+    "name": "Builder: bloxroute-7",
+    "tags": [
+      {
+        "name": "Builder: bloxroute-7",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x345324dC15F1CDcF9022E3B7F349e911fb823b4C": {
+    "name": "Builder: jetbldr-1",
+    "tags": [
+      {
+        "name": "Builder: jetbldr-1",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x79102dB16781ddDfF63F301C9Be557Fd1Dd48fA0": {
+    "name": "Builder: nodereal-1",
+    "tags": [
+      {
+        "name": "Builder: nodereal-1",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xd0d56b330a0dea077208b96910ce452fd77e1b6f": {
+    "name": "Builder: nodereal-2",
+    "tags": [
+      {
+        "name": "Builder: nodereal-2",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4f24ce4cd03a6503de97cf139af2c26347930b99": {
+    "name": "Builder: nodereal-3",
+    "tags": [
+      {
+        "name": "Builder: nodereal-3",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x10353562E662E333C0c2007400284e0e21cF74fF": {
+    "name": "Builder: bloxroute-8",
+    "tags": [
+      {
+        "name": "Builder: bloxroute-8",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xa6d6086222812eFD5292fF284b0F7ff2a2B86Af4": {
+    "name": "Builder: darwinbuilder-1",
+    "tags": [
+      {
+        "name": "Builder: darwinbuilder-1",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x3265A3243ee84e667a73073504cA4CdeD1413D82": {
+    "name": "Builder: darwinbuilder-2",
+    "tags": [
+      {
+        "name": "Builder: darwinbuilder-2",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xdf11CD23992Fd48Cf2d245aC144010673275f285": {
+    "name": "Builder: darwinbuilder-3",
+    "tags": [
+      {
+        "name": "Builder: darwinbuilder-3",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9a3234b450518fadA098388B88e00deCAd96ad38": {
+    "name": "Builder: inblock-1",
+    "tags": [
+      {
+        "name": "Builder: inblock-1",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xb49f86586a840AB9920D2f340a85586E50FD30a2": {
+    "name": "Builder: inblock-2",
+    "tags": [
+      {
+        "name": "Builder: inblock-2",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x0F6D8b72F3687de6f2824903a83B3ba13c0e88A0": {
+    "name": "Builder: inblock-3",
+    "tags": [
+      {
+        "name": "Builder: inblock-3",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x36CB523286D57680efBbfb417C63653115bCEBB5": {
+    "name": "Builder: jetbldr-2",
+    "tags": [
+      {
+        "name": "Builder: jetbldr-2",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x3aD6121407f6EDb65C8B2a518515D45863C206A8": {
+    "name": "Builder: jetbldr-3",
+    "tags": [
+      {
+        "name": "Builder: jetbldr-3",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x812720cb4639550D7BDb1d8F2be463F4a9663762": {
+    "name": "Builder: xzbuilder",
+    "tags": [
+      {
+        "name": "Builder: xzbuilder",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x48a5Ed9abC1a8FBe86ceC4900483f43a7f2dBB48": {
+    "name": "Builder: 48club-1",
+    "tags": [
+      {
+        "name": "Builder: 48club-1",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x48FeE1BB3823D72fdF80671ebaD5646Ae397BB48": {
+    "name": "Builder: 48club-2",
+    "tags": [
+      {
+        "name": "Builder: 48club-2",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x48B4bBEbF0655557A461e91B8905b85864B8BB48": {
+    "name": "Builder: 48club-3",
+    "tags": [
+      {
+        "name": "Builder: 48club-3",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4827b423D03a349b7519Dda537e9A28d31ecBB48": {
+    "name": "Builder: 48club-4",
+    "tags": [
+      {
+        "name": "Builder: 48club-4",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x48B2665E5E9a343409199D70F7495c8aB660BB48": {
+    "name": "Builder: 48club-5",
+    "tags": [
+      {
+        "name": "Builder: 48club-5",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x3FC0c936c00908c07723ffbf2d536D6E0f62C3A4": {
+    "name": "Builder: blockbus-1",
+    "tags": [
+      {
+        "name": "Builder: blockbus-1",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x17e9F0D7E45A500f0148B29C6C98EfD19d95F138": {
+    "name": "Builder: blockbus-2",
+    "tags": [
+      {
+        "name": "Builder: blockbus-2",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x1319Be8b8Ec4AA81f501924BdCF365fBcAa8d753": {
+    "name": "Builder: blockbus-3",
+    "tags": [
+      {
+        "name": "Builder: blockbus-3",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x37e9627a91dd13e453246856d58797ad6583d762": {
+    "name": "Validator: LegendII",
+    "tags": [
+      {
+        "name": "Validator: LegendII",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x7b501c7944185130dd4ad73293e8aa84effdcee7": {
+    "name": "Validator: MathWallet",
+    "tags": [
+      {
+        "name": "Validator: MathWallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x7e1fdf03eb3ac35bf0256694d7fbe6b6d7b3e0c8": {
+    "name": "Validator: LegendIII",
+    "tags": [
+      {
+        "name": "Validator: LegendIII",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xb4647b856cb9c3856d559c885bed8b43e0846a47": {
+    "name": "Validator: CertiK",
+    "tags": [
+      {
+        "name": "Validator: CertiK",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xd3b0d838ccceae7ebf1781d11d1bb741db7fe1a7": {
+    "name": "Validator: BNBEve",
+    "tags": [
+      {
+        "name": "Validator: BNBEve",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x58567f7a51a58708c8b40ec592a38ba64c0697de": {
+    "name": "Validator: Legend",
+    "tags": [
+      {
+        "name": "Validator: Legend",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x5009317fd4f6f8feea9dae41e5f0a4737bb7a7d5": {
+    "name": "Validator: NodeReal",
+    "tags": [
+      {
+        "name": "Validator: NodeReal",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xf8de5e61322302b2c6e0a525cc842f10332811bf": {
+    "name": "Validator: namelix",
+    "tags": [
+      {
+        "name": "Validator: namelix",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x1cfdbd2dff70c6e2e30df5012726f87731f38164": {
+    "name": "Validator: Tranchess",
+    "tags": [
+      {
+        "name": "Validator: Tranchess",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xca503a7ed99eca485da2e875aedf7758472c378c": {
+    "name": "Validator: InfStones",
+    "tags": [
+      {
+        "name": "Validator: InfStones",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x502aecfe253e6aa0e8d2a06e12438ffed0fe16a0": {
+    "name": "Validator: BscScan",
+    "tags": [
+      {
+        "name": "Validator: BscScan",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x460a252b4feefa821d3351731220627d7b7d1f3d": {
+    "name": "Validator: defibit",
+    "tags": [
+      {
+        "name": "Validator: defibit",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9f1b7fae54be07f4fee34eb1aacb39a1f7b6fc92": {
+    "name": "Validator: TWStaking",
+    "tags": [
+      {
+        "name": "Validator: TWStaking",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xf8b99643fafc79d9404de68e48c4d49a3936f787": {
+    "name": "Validator: Avengers",
+    "tags": [
+      {
+        "name": "Validator: Avengers",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x8a239732871adc8829ea2f47e94087c5fbad47b6": {
+    "name": "Validator: The48Club",
+    "tags": [
+      {
+        "name": "Validator: The48Club",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xbdcc079bbb23c1d9a6f36aa31309676c258abac7": {
+    "name": "Validator: fuji",
+    "tags": [
+      {
+        "name": "Validator: fuji",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9bb56c2b4dbe5a06d79911c9899b6f817696acfc": {
+    "name": "Validator: Feynman",
+    "tags": [
+      {
+        "name": "Validator: Feynman",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x75b851a27d7101438f45fce31816501193239a83": {
+    "name": "Validator: Figment",
+    "tags": [
+      {
+        "name": "Validator: Figment",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x38944092685a336cb6b9ea58836436709a2adc89": {
+    "name": "Validator: Shannon",
+    "tags": [
+      {
+        "name": "Validator: Shannon",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xccb42a9b8d6c46468900527bc741938e78ab4577": {
+    "name": "Validator: Turing",
+    "tags": [
+      {
+        "name": "Validator: Turing",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xfc1004c0f296ec3df4f6762e9eabfcf20eb304a2": {
+    "name": "Validator: Aoraki",
+    "tags": [
+      {
+        "name": "Validator: Aoraki",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xa0884bb00e5f23fe2427f0e5ec9e51f812848563": {
+    "name": "Validator: coda",
+    "tags": [
+      {
+        "name": "Validator: coda",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xa2d969e82524001cb6a2357dbf5922b04ad2fcd8": {
+    "name": "Validator: pexmons",
+    "tags": [
+      {
+        "name": "Validator: pexmons",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xe7776de78740f28a96412ee5cbbb8f90896b11a5": {
+    "name": "Validator: Ankr",
+    "tags": [
+      {
+        "name": "Validator: Ankr",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x5cf810ab8c718ac065b45f892a5badab2b2946b9": {
+    "name": "Validator: zen",
+    "tags": [
+      {
+        "name": "Validator: zen",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4d15d9bcd0c2f33e7510c0de8b42697ca558234a": {
+    "name": "Validator: LegendVII",
+    "tags": [
+      {
+        "name": "Validator: LegendVII",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xd1f72d433f362922f6565fc77c25e095b29141c8": {
+    "name": "Validator: LegendVI",
+    "tags": [
+      {
+        "name": "Validator: LegendVI",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xb997bf1e3b96919fba592c1f61ce507e165ec030": {
+    "name": "Validator: Seoraksan",
+    "tags": [
+      {
+        "name": "Validator: Seoraksan",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xf9814d93b4d904aaa855cbd4266d6eb0ec1aa478": {
+    "name": "Validator: Legend8",
+    "tags": [
+      {
+        "name": "Validator: Legend8",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x025a4e09ea947b8d695f53ddfdd48ddb8f9b06b7": {
+    "name": "Validator: ciscox",
+    "tags": [
+      {
+        "name": "Validator: ciscox",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x1579ca96ebd49a0b173f86c372436ab1ad393380": {
+    "name": "Validator: LegendV",
+    "tags": [
+      {
+        "name": "Validator: LegendV",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xa015d9e9206859c13201bb3d6b324d6634276534": {
+    "name": "Validator: Star",
+    "tags": [
+      {
+        "name": "Validator: Star",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x73a26778ef9509a6e94b55310ee7233795a9eb25": {
+    "name": "Validator: coinlix",
+    "tags": [
+      {
+        "name": "Validator: coinlix",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xe9436f6f30b4b01b57f2780b2898f3820ebd7b98": {
+    "name": "Validator: LegendIV",
+    "tags": [
+      {
+        "name": "Validator: LegendIV",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x5adde0151bfab27f329e5112c1aedeed7f0d3692": {
+    "name": "Validator: Veri",
+    "tags": [
+      {
+        "name": "Validator: Veri",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x286c1b674d48cff67b4096b6c1dc22e769581e91": {
+    "name": "Validator: sigm8",
+    "tags": [
+      {
+        "name": "Validator: sigm8",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9f7110ba7edfda83fc71bea6ba3c0591117b440d": {
+    "name": "Validator: LegendIX",
+    "tags": [
+      {
+        "name": "Validator: LegendIX",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xc2d534f079444e6e7ff9dabb3fd8a26c607932c8": {
+    "name": "Validator: axion",
+    "tags": [
+      {
+        "name": "Validator: axion",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x978f05ced39a4eafa6e8fd045fe2dd6da836c7df": {
+    "name": "Validator: NovaX",
+    "tags": [
+      {
+        "name": "Validator: NovaX",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xd849d1df66bff1c2739b4399425755c2e0fabbab": {
+    "name": "Validator: Nexa",
+    "tags": [
+      {
+        "name": "Validator: Nexa",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xfd85346c8c991bac16b9c9157e6bdfdace1cd7d7": {
+    "name": "Validator: glorin",
+    "tags": [
+      {
+        "name": "Validator: glorin",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2a7cdd959bfe8d9487b2a43b33565295a698f7e2": {
+    "name": "Validator: Sigm8",
+    "tags": [
+      {
+        "name": "Validator: Sigm8",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x35e7a025f4da968de7e4d7e4004197917f4070f1": {
+    "name": "Validator: Piececoin",
+    "tags": [
+      {
+        "name": "Validator: Piececoin",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9f8ccdafcc39f3c7d6ebf637c9151673cbc36b88": {
+    "name": "Validator: Ankr",
+    "tags": [
+      {
+        "name": "Validator: Ankr",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x61dd481a114a2e761c554b641742c973867899d3": {
+    "name": "Validator: Synclub",
+    "tags": [
+      {
+        "name": "Validator: Synclub",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xb8f7166496996a7da21cf1f1b04d9b3e26a3d077": {
+    "name": "Validator: Coinlix",
+    "tags": [
+      {
+        "name": "Validator: Coinlix",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xee226379db83cffc681495730c11fdde79ba4c0c": {
+    "name": "Validator: InfStones",
+    "tags": [
+      {
+        "name": "Validator: InfStones",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xd6ab358ad430f65eb4aa5a1598ff2c34489dcfde": {
+    "name": "Validator: Saturn",
+    "tags": [
+      {
+        "name": "Validator: Saturn",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x6bbad7cf34b5fa511d8e963dbba288b1960e75d6": {
+    "name": "Validator: Ararat",
+    "tags": [
+      {
+        "name": "Validator: Ararat",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xef0274e31810c9df02f98fafde0f841f4e66a1cd": {
+    "name": "Validator: Tranchess",
+    "tags": [
+      {
+        "name": "Validator: Tranchess",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xa100fcd08ce722dc68ddc3b54237070cb186f118": {
+    "name": "Validator: tiollo",
+    "tags": [
+      {
+        "name": "Validator: tiollo",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xc2be4ec20253b8642161bc3f444f53679c1f3d47": {
+    "name": "Validator: Tiollo",
+    "tags": [
+      {
+        "name": "Validator: Tiollo",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xa6f79b60359f141df90a0c745125b131caaffd12": {
+    "name": "Validator: Avengers",
+    "tags": [
+      {
+        "name": "Validator: Avengers",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x8b6c8fd93d6f4cea42bbb345dbc6f0dfdb5bec73": {
+    "name": "Validator: Legend III",
+    "tags": [
+      {
+        "name": "Validator: Legend III",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xd6caa02bbebaebb5d7e581e4b66559e635f805ff": {
+    "name": "Validator: Leapbnb",
+    "tags": [
+      {
+        "name": "Validator: Leapbnb",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4396e28197653d0c244d95f8c1e57da902a72b4e": {
+    "name": "Validator: Alps",
+    "tags": [
+      {
+        "name": "Validator: Alps",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xac0e15a038eedfc68ba3c35c73fed5be4a07afb5": {
+    "name": "Validator: Bison Trails",
+    "tags": [
+      {
+        "name": "Validator: Bison Trails",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x18c44f4fbede9826c7f257d500a65a3d5a8edebc": {
+    "name": "Validator: nozti",
+    "tags": [
+      {
+        "name": "Validator: nozti",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x685b1ded8013785d6623cc18d214320b6bb64759": {
+    "name": "Validator: Namelix",
+    "tags": [
+      {
+        "name": "Validator: Namelix",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x22b81f8e175ffde54d797fe11eb03f9e3bf75f1d": {
+    "name": "Validator: Aconcagua",
+    "tags": [
+      {
+        "name": "Validator: Aconcagua",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x1252feb82c34eed907b294be442e4dd413e58138": {
+    "name": "Validator: Burnaby",
+    "tags": [
+      {
+        "name": "Validator: Burnaby",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x6488aa4d1955ee33403f8ccb1d4de5fb97c7ade2": {
+    "name": "Validator: Seoraksan",
+    "tags": [
+      {
+        "name": "Validator: Seoraksan",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x0bac492386862ad3df4b666bc096b0505bb694da": {
+    "name": "Validator: Claude Shannon",
+    "tags": [
+      {
+        "name": "Validator: Claude Shannon",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x29a97c6effb8a411dabc6adeefaa84f5067c8bbe": {
+    "name": "Validator: CREAM",
+    "tags": [
+      {
+        "name": "Validator: CREAM",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x69c77a677c40c7fbea129d4b171a39b7a8ddabfa": {
+    "name": "Blockorus",
+    "tags": [
+      {
+        "name": "Blockorus",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9ef9f4360c606c7ab4db26b016007d3ad0ab86a0": {
+    "name": "Validator: Nozti",
+    "tags": [
+      {
+        "name": "Validator: Nozti",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x82012708dafc9e1b880fd083b32182b869be8e09": {
+    "name": "Validator: Kita",
+    "tags": [
+      {
+        "name": "Validator: Kita",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x70f657164e5b75689b64b7fd1fa275f334f28e18": {
+    "name": "Validator: BscScan",
+    "tags": [
+      {
+        "name": "Validator: BscScan",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xee01c3b1283aa067c58eab4709f85e99d46de5fe": {
+    "name": "Validator: Glorin",
+    "tags": [
+      {
+        "name": "Validator: Glorin",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xada8c942f31098482748fcf2b9d3dc1d8de7b0e4": {
+    "name": "Validator: James Clerk Maxwell",
+    "tags": [
+      {
+        "name": "Validator: James Clerk Maxwell",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xbe807dddb074639cd9fa61b47676c064fc50d62c": {
+    "name": "Validator: Certik",
+    "tags": [
+      {
+        "name": "Validator: Certik",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x68bf0b8b6fb4e317a0f9d6f03eaf8ce6675bc60d": {
+    "name": "Validator: Stakepulse",
+    "tags": [
+      {
+        "name": "Validator: Stakepulse",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x295e26495cef6f69dfa69911d9d8e4f3bbadb89b": {
+    "name": "Validator: Legend",
+    "tags": [
+      {
+        "name": "Validator: Legend",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xce2fd7544e0b2cc94692d4a704debef7bcb61328": {
+    "name": "Validator: Pexmons",
+    "tags": [
+      {
+        "name": "Validator: Pexmons",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x72b61c6014342d914470ec7ac2975be345796c2b": {
+    "name": "Validator: 48 Club",
+    "tags": [
+      {
+        "name": "Validator: 48 Club",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xe2d3a739effcd3a99387d015e260eefac72ebea1": {
+    "name": "Validator: MathWallet",
+    "tags": [
+      {
+        "name": "Validator: MathWallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x482ba86399ab6dcbe54071f8d22258688b4509b1": {
+    "name": "Validator: HashKey",
+    "tags": [
+      {
+        "name": "Validator: HashKey",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4430b3230294d12c6ab2aac5c2cd68e80b16b581": {
+    "name": "Validator: Ciscox",
+    "tags": [
+      {
+        "name": "Validator: Ciscox",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9bb832254baf4e8b4cc26bd2b52b31389b56e98b": {
+    "name": "Validator: Stake2me",
+    "tags": [
+      {
+        "name": "Validator: Stake2me",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xaacf6a8119f7e11623b5a43da638e91f669a130f": {
+    "name": "Validator: Neptune",
+    "tags": [
+      {
+        "name": "Validator: Neptune",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x78f3adfc719c99674c072166708589033e2d9afe": {
+    "name": "Validator: Nariox",
+    "tags": [
+      {
+        "name": "Validator: Nariox",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x7ae2f5b9e386cd1b50a4550696d957cb4900f03a": {
+    "name": "Validator: Fuji",
+    "tags": [
+      {
+        "name": "Validator: Fuji",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x3f349bbafec1551819b8be1efea2fc46ca749aa1": {
+    "name": "Validator: Legend II",
+    "tags": [
+      {
+        "name": "Validator: Legend II",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x0f28847cfdbf7508b13ebb9ceb94b2f1b32e9503": {
+    "name": "Validator: raptas",
+    "tags": [
+      {
+        "name": "Validator: raptas",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xea0a6e3c511bbd10f4519ece37dc24887e11b55d": {
+    "name": "Validator: Defibit",
+    "tags": [
+      {
+        "name": "Validator: Defibit",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xb218c5d6af1f979ac42bc68d98a5a0d796c6ab01": {
+    "name": "Validator: Alan Turing",
+    "tags": [
+      {
+        "name": "Validator: Alan Turing",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2f7be8361c80a4c1e7e9aaf001d0877f1cfde218": {
+    "name": "Validator: Raptas",
+    "tags": [
+      {
+        "name": "Validator: Raptas",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x8c4d90829ce8f72d0163c1d5cf348a862d550630": {
+    "name": "Validator: Everest",
+    "tags": [
+      {
+        "name": "Validator: Everest",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2465176c461afb316ebc773c61faee85a6515daa": {
+    "name": "Validator: TW Staking",
+    "tags": [
+      {
+        "name": "Validator: TW Staking",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2d4c407bbe49438ed859fe965b140dcf1aab71a9": {
+    "name": "Validator: NodeReal",
+    "tags": [
+      {
+        "name": "Validator: NodeReal",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xa34efe6222e33adb84307f41b218d1823afb6f6d": {
+    "name": "Validator: Enrico Fermi",
+    "tags": [
+      {
+        "name": "Validator: Enrico Fermi",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xe9ae3261a475a27bb1028f140bc2a7c843318afd": {
+    "name": "Validator: HashQuark",
+    "tags": [
+      {
+        "name": "Validator: HashQuark",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x69C77a677C40C7FBeA129d4b171a39B7A8DDaBfA": {
+    "name": "Blockorus",
+    "tags": [
+      {
+        "name": "Blockorus",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xe7776De78740f28a96412eE5cbbB8f90896b11A5": {
+    "name": "Validator : Ankr",
+    "tags": [
+      {
+        "name": "Validator : Ankr",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xfC1004C0f296Ec3Df4F6762E9EabfcF20EB304a2": {
+    "name": "Validator : Aoraki",
+    "tags": [
+      {
+        "name": "Validator : Aoraki",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xF8B99643fAfC79d9404DE68E48C4D49a3936f787": {
+    "name": "Validator : Avengers",
+    "tags": [
+      {
+        "name": "Validator : Avengers",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xC2d534F079444E6E7Ff9DabB3FD8a26c607932c8": {
+    "name": "Validator : axion",
+    "tags": [
+      {
+        "name": "Validator : axion",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xD3b0d838cCCEAe7ebF1781D11D1bB741DB7Fe1A7": {
+    "name": "Validator : BNBEve",
+    "tags": [
+      {
+        "name": "Validator : BNBEve",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x502aECFE253E6AA0e8D2A06E12438FFeD0Fe16a0": {
+    "name": "Validator : BscScan",
+    "tags": [
+      {
+        "name": "Validator : BscScan",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xB4647b856CB9C3856d559C885Bed8B43e0846a47": {
+    "name": "Validator : CertiK",
+    "tags": [
+      {
+        "name": "Validator : CertiK",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x025a4e09Ea947b8d695f53ddFDD48ddB8F9B06b7": {
+    "name": "Validator : ciscox",
+    "tags": [
+      {
+        "name": "Validator : ciscox",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xa0884bb00E5F23fE2427f0E5eC9E51F812848563": {
+    "name": "Validator : coda",
+    "tags": [
+      {
+        "name": "Validator : coda",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x73A26778ef9509a6E94b55310eE7233795a9EB25": {
+    "name": "Validator : coinlix",
+    "tags": [
+      {
+        "name": "Validator : coinlix",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x460A252B4fEEFA821d3351731220627D7B7d1F3d": {
+    "name": "Validator : defibit",
+    "tags": [
+      {
+        "name": "Validator : defibit",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9bb56C2B4DBE5a06d79911C9899B6f817696ACFc": {
+    "name": "Validator : Feynman",
+    "tags": [
+      {
+        "name": "Validator : Feynman",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x75B851a27D7101438F45fce31816501193239A83": {
+    "name": "Validator : Figment",
+    "tags": [
+      {
+        "name": "Validator : Figment",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xbdcc079BBb23C1D9a6F36AA31309676C258aBAC7": {
+    "name": "Validator : fuji",
+    "tags": [
+      {
+        "name": "Validator : fuji",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xfD85346c8C991baC16b9c9157e6bdfDACE1cD7d7": {
+    "name": "Validator : glorin",
+    "tags": [
+      {
+        "name": "Validator : glorin",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x482bA86399ab6Dcbe54071f8d22258688B4509b1": {
+    "name": "Validator : HashKey",
+    "tags": [
+      {
+        "name": "Validator : HashKey",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xCa503a7eD99eca485da2E875aedf7758472c378C": {
+    "name": "Validator : InfStones",
+    "tags": [
+      {
+        "name": "Validator : InfStones",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x58567F7A51a58708C8B40ec592A38bA64C0697De": {
+    "name": "Validator : Legend",
+    "tags": [
+      {
+        "name": "Validator : Legend",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xf9814D93b4d904AaA855cBD4266D6Eb0Ec1Aa478": {
+    "name": "Validator : Legend8",
+    "tags": [
+      {
+        "name": "Validator : Legend8",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x37e9627A91DD13e453246856D58797Ad6583D762": {
+    "name": "Validator : LegendII",
+    "tags": [
+      {
+        "name": "Validator : LegendII",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x7E1FdF03Eb3aC35BF0256694D7fBe6B6d7b3E0c8": {
+    "name": "Validator : LegendIII",
+    "tags": [
+      {
+        "name": "Validator : LegendIII",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xE9436F6F30b4B01b57F2780B2898f3820EbD7B98": {
+    "name": "Validator : LegendIV",
+    "tags": [
+      {
+        "name": "Validator : LegendIV",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9F7110Ba7EdFda83Fc71BeA6BA3c0591117b440D": {
+    "name": "Validator : LegendIX",
+    "tags": [
+      {
+        "name": "Validator : LegendIX",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x1579ca96EBd49A0B173f86C372436ab1AD393380": {
+    "name": "Validator : LegendV",
+    "tags": [
+      {
+        "name": "Validator : LegendV",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xd1F72d433f362922f6565FC77c25e095B29141c8": {
+    "name": "Validator : LegendVI",
+    "tags": [
+      {
+        "name": "Validator : LegendVI",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4d15D9BCd0c2f33E7510c0de8b42697CA558234a": {
+    "name": "Validator : LegendVII",
+    "tags": [
+      {
+        "name": "Validator : LegendVII",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x7b501c7944185130DD4aD73293e8Aa84eFfDcee7": {
+    "name": "Validator : MathWallet",
+    "tags": [
+      {
+        "name": "Validator : MathWallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xF8de5e61322302b2c6e0a525cC842F10332811bf": {
+    "name": "Validator : namelix",
+    "tags": [
+      {
+        "name": "Validator : namelix",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xd849d1dF66bFF1c2739B4399425755C2E0fAbbAb": {
+    "name": "Validator : Nexa",
+    "tags": [
+      {
+        "name": "Validator : Nexa",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x5009317FD4F6F8FeEa9dAe41E5F0a4737BB7A7D5": {
+    "name": "Validator : NodeReal",
+    "tags": [
+      {
+        "name": "Validator : NodeReal",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x978F05CED39A4EaFa6E8FD045Fe2dd6Da836c7DF": {
+    "name": "Validator : NovaX",
+    "tags": [
+      {
+        "name": "Validator : NovaX",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x18c44f4FBEde9826C7f257d500A65a3D5A8edebc": {
+    "name": "Validator : nozti",
+    "tags": [
+      {
+        "name": "Validator : nozti",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xA2D969E82524001Cb6a2357dBF5922B04aD2FCD8": {
+    "name": "Validator : pexmons",
+    "tags": [
+      {
+        "name": "Validator : pexmons",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x0F28847cfdbf7508B13Ebb9cEb94B2f1B32E9503": {
+    "name": "Validator : raptas",
+    "tags": [
+      {
+        "name": "Validator : raptas",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xd6Ab358AD430F65EB4Aa5a1598FF2c34489dcfdE": {
+    "name": "Validator : Saturn",
+    "tags": [
+      {
+        "name": "Validator : Saturn",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xB997Bf1E3b96919fBA592c1F61CE507E165Ec030": {
+    "name": "Validator : Seoraksan",
+    "tags": [
+      {
+        "name": "Validator : Seoraksan",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x38944092685a336CB6B9ea58836436709a2adC89": {
+    "name": "Validator : Shannon",
+    "tags": [
+      {
+        "name": "Validator : Shannon",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x286C1b674d48cFF67b4096b6c1dc22e769581E91": {
+    "name": "Validator : sigm8",
+    "tags": [
+      {
+        "name": "Validator : sigm8",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xA015d9e9206859c13201BB3D6B324d6634276534": {
+    "name": "Validator : Star",
+    "tags": [
+      {
+        "name": "Validator : Star",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x8A239732871AdC8829EA2f47e94087C5FBad47b6": {
+    "name": "Validator : The48Club",
+    "tags": [
+      {
+        "name": "Validator : The48Club",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xA100FCd08cE722Dc68Ddc3b54237070Cb186f118": {
+    "name": "Validator : tiollo",
+    "tags": [
+      {
+        "name": "Validator : tiollo",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x1cFDBd2dFf70C6e2e30df5012726F87731F38164": {
+    "name": "Validator : Tranchess",
+    "tags": [
+      {
+        "name": "Validator : Tranchess",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xCcB42A9b8d6C46468900527Bc741938E78AB4577": {
+    "name": "Validator : Turing",
+    "tags": [
+      {
+        "name": "Validator : Turing",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9f1b7FAE54BE07F4FEE34Eb1aaCb39A1F7B6FC92": {
+    "name": "Validator : TWStaking",
+    "tags": [
+      {
+        "name": "Validator : TWStaking",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x5ADde0151BfAB27f329e5112c1AeDeed7f0D3692": {
+    "name": "Validator : Veri",
+    "tags": [
+      {
+        "name": "Validator : Veri",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x5cf810AB8C718ac065b45f892A5BAdAB2B2946B9": {
+    "name": "Validator : zen",
+    "tags": [
+      {
+        "name": "Validator : zen",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x72b61c6014342d914470eC7aC2975bE345796c2b": {
+    "name": "Validator: 48 Club",
+    "tags": [
+      {
+        "name": "Validator: 48 Club",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x22B81f8E175FFde54d797FE11eB03F9E3BF75F1d": {
+    "name": "Validator: Aconcagua",
+    "tags": [
+      {
+        "name": "Validator: Aconcagua",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xb218C5D6aF1F979aC42BC68d98A5A0D796C6aB01": {
+    "name": "Validator: Alan Turing",
+    "tags": [
+      {
+        "name": "Validator: Alan Turing",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4396e28197653d0C244D95f8C1E57da902A72b4e": {
+    "name": "Validator: Alps",
+    "tags": [
+      {
+        "name": "Validator: Alps",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9F8cCdaFCc39F3c7D6EBf637c9151673CBc36b88": {
+    "name": "Validator: Ankr",
+    "tags": [
+      {
+        "name": "Validator: Ankr",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x6BBad7Cf34b5fA511d8e963dbba288B1960E75D6": {
+    "name": "Validator: Ararat",
+    "tags": [
+      {
+        "name": "Validator: Ararat",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xa6f79B60359f141df90A0C745125B131cAAfFD12": {
+    "name": "Validator: Avengers",
+    "tags": [
+      {
+        "name": "Validator: Avengers",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x70F657164e5b75689b64B7fd1fA275F334f28e18": {
+    "name": "Validator: BscScan",
+    "tags": [
+      {
+        "name": "Validator: BscScan",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x1252feB82c34EeD907B294Be442E4DD413E58138": {
+    "name": "Validator: Burnaby",
+    "tags": [
+      {
+        "name": "Validator: Burnaby",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xBe807Dddb074639cD9fA61b47676c064fc50D62C": {
+    "name": "Validator: Certik",
+    "tags": [
+      {
+        "name": "Validator: Certik",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4430b3230294D12c6AB2aAC5C2cd68E80B16b581": {
+    "name": "Validator: Ciscox",
+    "tags": [
+      {
+        "name": "Validator: Ciscox",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x0BAC492386862aD3dF4B666Bc096b0505BB694Da": {
+    "name": "Validator: Claude Shannon",
+    "tags": [
+      {
+        "name": "Validator: Claude Shannon",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xB8f7166496996A7da21cF1f1b04d9B3E26a3d077": {
+    "name": "Validator: Coinlix",
+    "tags": [
+      {
+        "name": "Validator: Coinlix",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x29a97C6EfFB8A411DABc6aDEEfaa84f5067C8bbe": {
+    "name": "Validator: CREAM",
+    "tags": [
+      {
+        "name": "Validator: CREAM",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xea0A6E3c511bbD10f4519EcE37Dc24887e11b55d": {
+    "name": "Validator: Defibit",
+    "tags": [
+      {
+        "name": "Validator: Defibit",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xa34EFE6222E33adB84307f41B218D1823AfB6F6D": {
+    "name": "Validator: Enrico Fermi",
+    "tags": [
+      {
+        "name": "Validator: Enrico Fermi",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x8c4D90829CE8F72D0163c1D5Cf348a862d550630": {
+    "name": "Validator: Everest",
+    "tags": [
+      {
+        "name": "Validator: Everest",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x7AE2F5B9e386cd1B50A4550696D957cB4900f03a": {
+    "name": "Validator: Fuji",
+    "tags": [
+      {
+        "name": "Validator: Fuji",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xEe01C3b1283AA067C58eaB4709F85e99D46de5FE": {
+    "name": "Validator: Glorin",
+    "tags": [
+      {
+        "name": "Validator: Glorin",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4e5acf9684652BEa56F2f01b7101a225Ee33d23f": {
+    "name": "Validator: HashkeyCloud",
+    "tags": [
+      {
+        "name": "Validator: HashkeyCloud",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xE9AE3261a475a27Bb1028f140bc2a7c843318afD": {
+    "name": "Validator: HashQuark",
+    "tags": [
+      {
+        "name": "Validator: HashQuark",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xee226379dB83CfFC681495730c11fDDE79BA4c0C": {
+    "name": "Validator: InfStones",
+    "tags": [
+      {
+        "name": "Validator: InfStones",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xAda8C942F31098482748FcF2b9d3dc1d8De7b0E4": {
+    "name": "Validator: James Clerk Maxwell",
+    "tags": [
+      {
+        "name": "Validator: James Clerk Maxwell",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x82012708DAfC9E1B880fd083B32182B869bE8E09": {
+    "name": "Validator: Kita",
+    "tags": [
+      {
+        "name": "Validator: Kita",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xd6caA02BBebaEbB5d7e581e4B66559e635F805fF": {
+    "name": "Validator: Leapbnb",
+    "tags": [
+      {
+        "name": "Validator: Leapbnb",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x295e26495CEF6F69dFA69911d9D8e4F3bBadB89B": {
+    "name": "Validator: Legend",
+    "tags": [
+      {
+        "name": "Validator: Legend",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x3f349bBaFEc1551819B8be1EfEA2fC46cA749aA1": {
+    "name": "Validator: Legend II",
+    "tags": [
+      {
+        "name": "Validator: Legend II",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x8b6C8fd93d6F4CeA42Bbb345DBc6F0DFdb5bEc73": {
+    "name": "Validator: Legend III",
+    "tags": [
+      {
+        "name": "Validator: Legend III",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xe2d3A739EFFCd3A99387d015E260eEFAc72EBea1": {
+    "name": "Validator: MathWallet",
+    "tags": [
+      {
+        "name": "Validator: MathWallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x685B1ded8013785d6623CC18D214320b6Bb64759": {
+    "name": "Validator: Namelix",
+    "tags": [
+      {
+        "name": "Validator: Namelix",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x78f3aDfC719C99674c072166708589033e2d9afe": {
+    "name": "Validator: Nariox",
+    "tags": [
+      {
+        "name": "Validator: Nariox",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2D4C407BBe49438ED859fe965b140dcF1aaB71a9": {
+    "name": "Validator: NodeReal",
+    "tags": [
+      {
+        "name": "Validator: NodeReal",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9ef9f4360c606c7AB4db26b016007d3ad0aB86a0": {
+    "name": "Validator: Nozti",
+    "tags": [
+      {
+        "name": "Validator: Nozti",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xce2FD7544e0B2Cc94692d4A704deBEf7bcB61328": {
+    "name": "Validator: Pexmons",
+    "tags": [
+      {
+        "name": "Validator: Pexmons",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x35E7a025f4da968De7e4D7E4004197917F4070F1": {
+    "name": "Validator: Piececoin",
+    "tags": [
+      {
+        "name": "Validator: Piececoin",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2f7bE8361C80A4c1e7e9aAF001d0877F1CFdE218": {
+    "name": "Validator: Raptas",
+    "tags": [
+      {
+        "name": "Validator: Raptas",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x6488Aa4D1955Ee33403f8ccB1d4dE5Fb97C7ade2": {
+    "name": "Validator: Seoraksan",
+    "tags": [
+      {
+        "name": "Validator: Seoraksan",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2a7cdd959bFe8D9487B2a43B33565295a698F7e2": {
+    "name": "Validator: Sigm8",
+    "tags": [
+      {
+        "name": "Validator: Sigm8",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x9bB832254BAf4E8B4cc26bD2B52B31389B56E98B": {
+    "name": "Validator: Stake2me",
+    "tags": [
+      {
+        "name": "Validator: Stake2me",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x68Bf0B8b6FB4E317a0f9D6F03eAF8CE6675BC60D": {
+    "name": "Validator: Stakepulse",
+    "tags": [
+      {
+        "name": "Validator: Stakepulse",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x61Dd481A114A2E761c554B641742C973867899D3": {
+    "name": "Validator: Synclub",
+    "tags": [
+      {
+        "name": "Validator: Synclub",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xc2Be4EC20253B8642161bC3f444F53679c1F3D47": {
+    "name": "Validator: Tiollo",
+    "tags": [
+      {
+        "name": "Validator: Tiollo",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2465176C461AfB316ebc773C61fAEe85A6515DAA": {
+    "name": "Validator: TW Staking",
+    "tags": [
+      {
+        "name": "Validator: TW Staking",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4e5acf9684652bea56f2f01b7101a225ee33d23f": {
+    "name": "Validator: HashkeyCloud",
+    "tags": [
+      {
+        "name": "Validator: HashkeyCloud",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x6e31081b28df16f465054134d6e5915e3575a04d": {
+    "name": "Binance Hot Wallet",
+    "tags": [
+      {
+        "name": "Binance Hot Wallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2ef443213b71e8a15ef8526874f4b2a9936997f0": {
+    "name": "Binance Hot Wallet",
+    "tags": [
+      {
+        "name": "Binance Hot Wallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xed9ebf150d334c040f7088e6fef033effe99e776": {
+    "name": "Binance Hot Wallet",
+    "tags": [
+      {
+        "name": "Binance Hot Wallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x8ed606694f85d8006bd304673503bdf404fdd9eb": {
+    "name": "Binance Hot Wallet",
+    "tags": [
+      {
+        "name": "Binance Hot Wallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xf8283cd4a3308a20bf37304e13db68bb9240fe4c": {
+    "name": "Binance Hot Wallet",
+    "tags": [
+      {
+        "name": "Binance Hot Wallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x439fd9a1d573807378b77472723e83c7ec5adf52": {
+    "name": "Binance Hot Wallet",
+    "tags": [
+      {
+        "name": "Binance Hot Wallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2ffa95ec20d81160ed54d2a2c7f49756aaf05200": {
+    "name": "Binance Hot Wallet",
+    "tags": [
+      {
+        "name": "Binance Hot Wallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xbc68bcd463b51540bbc1b108b150bc759253e80d": {
+    "name": "Binance Hot Wallet",
+    "tags": [
+      {
+        "name": "Binance Hot Wallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0xdcc02bf0ab1477f3d790f3b3014da9447f503b02": {
+    "name": "Binance Hot Wallet",
+    "tags": [
+      {
+        "name": "Binance Hot Wallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x2296C8dD1E34A8b3FFd3faCf21478b79E4059662": {
+    "name": "Binance Hot Wallet",
+    "tags": [
+      {
+        "name": "Binance Hot Wallet",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x28816c4c4792467390c90e5b426f198570e29307": {
+    "name": "Changpeng Zhao",
+    "tags": [
+      {
+        "name": "Changpeng Zhao",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      }
+    ]
+  },
+  "0x4ff7074d85b6114f27b1192bb619fc92089476b2": {
+    "name": "Fake Token",
+    "tags": [
+      {
+        "name": "Fake Token",
+        "desc": "",
+        "link": "",
+        "type": "warn"
+      }
+    ]
+  }
+}
