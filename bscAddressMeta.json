@@ -2587,6 +2587,18 @@
         "desc": "",
         "link": "",
         "type": "warning"
+      },
+      {
+        "name": "Fake Token",
+        "desc": "",
+        "link": "",
+        "type": "error"
+      },
+      {
+        "name": "Fake Token",
+        "desc": "Fake Token",
+        "link": "https://bnbchain.org",
+        "type": "success"
       }
     ]
   }
