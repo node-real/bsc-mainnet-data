@@ -2580,7 +2580,7 @@
         "name": "Fake Token",
         "desc": "",
         "link": "",
-        "type": "warning"
+        "type": "error"
       }
     ]
   },
