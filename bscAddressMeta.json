@@ -2577,6 +2577,12 @@
     "name": "Fake Token",
     "tags": [
       {
+        "name": "Red Alarm Contract",
+        "desc": "",
+        "link": "",
+        "type": "info"
+      },
+      {
         "name": "Fake Token",
         "desc": "",
         "link": "",
