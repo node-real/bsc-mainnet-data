@@ -2113,49 +2113,5 @@
         "type": "error"
       }
     ]
-  },
-  "0x2170ed0880ac9a755fd29b2688956bd959f933f8": {
-    "name": "Warning Token",
-    "tags": [
-      {
-        "name": "Warning: t",
-        "desc": "warning token add",
-        "link": "https://bscscan.com",
-        "type": "warning"
-      }
-    ]
-  },
-  "0x55d398326f99059ff775485246999027b3197955": {
-    "name": "Error Token",
-    "tags": [
-      {
-        "name": "Error: t",
-        "desc": "error token add",
-        "link": "https://testnet.bscscan.com",
-        "type": "error"
-      }
-    ]
-  },
-  "0x3e14602186dd9de538f729547b3918d24c823546": {
-    "name": "Success Token",
-    "tags": [
-      {
-        "name": "Success: t",
-        "desc": "success token add",
-        "link": "https://testnet.opbnbscan.com",
-        "type": "success"
-      }
-    ]
-  },
-  "0x6053b8fc837dc98c54f7692606d632ac5e760488": {
-    "name": "Nft Token",
-    "tags": [
-      {
-        "name": "nft: t",
-        "desc": "nft token add",
-        "link": "https://bscscan.com",
-        "type": "info"
-      }
-    ]
   }
 }
