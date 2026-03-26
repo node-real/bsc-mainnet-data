@@ -2113,5 +2113,14 @@
         "type": "error"
       }
     ]
+  },
+  "0x21cAef8A43163Eea865baeE23b9C2E327696A3bf": {
+    "name": "Tether Gold(XAUt)",
+    "tags": [
+      {
+        "name": "Tether Gold: XAUt Token",
+        "type": "info"
+      }
+    ]
   }
 }
