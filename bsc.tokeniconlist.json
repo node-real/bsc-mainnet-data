@@ -4,5 +4,11 @@
         "symbol": "HODL",
         "contract": "0x0E9766dF73973abCfEDDE700497c57110ee5c301",
         "url": "https://nodereal.io/static/ihs/token/icon/41cb0aed-5074-41ef-922c-f2db7dacd725.png"
+    },
+    "0x21cAef8A43163Eea865baeE23b9C2E327696A3bf": {
+        "name": "Tether Gold",
+        "symbol": "XAUt",
+        "contract": "0x21cAef8A43163Eea865baeE23b9C2E327696A3bf",
+        "url": "https://nodereal.io/static/ihs/token/icon/d4a027e0-15b0-4b5d-9f54-d2bd0321d3cd.png"
     }
 }
